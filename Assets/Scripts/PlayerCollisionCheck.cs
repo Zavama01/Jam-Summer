@@ -1,10 +1,10 @@
 using UnityEngine;
 
 [RequireComponent(typeof(BoxCollider2D))]
-public class PlayerCollisionCheck : MonoBehaviour
+public class PlayerBoxCastCollision : MonoBehaviour
 {
     [SerializeField] private LayerMask obstacleMask;
-    [SerializeField] private float skinWidth = 0.02f;
+    [SerializeField] private float skin = 0.02f;
 
     private BoxCollider2D boxCol;
 
@@ -13,22 +13,17 @@ public class PlayerCollisionCheck : MonoBehaviour
         boxCol = GetComponent<BoxCollider2D>();
     }
 
-    public Vector2 GetAllowedMovement(Vector2 desiredMovement)
+    public Vector3 FilterMovement(Vector3 delta)
     {
-        Vector2 allowed = desiredMovement;
+        Vector3 filtered = delta;
 
-        allowed.x = GetAllowedDistance(Vector2.right * Mathf.Sign(desiredMovement.x), Mathf.Abs(desiredMovement.x));
-        transform.position += new Vector3(allowed.x, 0f, 0f);
+        filtered.x = FilterAxis(Vector2.right * Mathf.Sign(delta.x), Mathf.Abs(delta.x));
+        filtered.y = FilterAxis(Vector2.up * Mathf.Sign(delta.y), Mathf.Abs(delta.y));
 
-        allowed.y = GetAllowedDistance(Vector2.up * Mathf.Sign(desiredMovement.y), Mathf.Abs(desiredMovement.y));
-        transform.position += new Vector3(0f, allowed.y, 0f);
-
-        transform.position -= new Vector3(allowed.x, allowed.y, 0f);
-
-        return allowed;
+        return filtered;
     }
 
-    private float GetAllowedDistance(Vector2 direction, float distance)
+    private float FilterAxis(Vector2 direction, float distance)
     {
         if (distance <= 0f)
             return 0f;
@@ -41,14 +36,14 @@ public class PlayerCollisionCheck : MonoBehaviour
             size,
             0f,
             direction,
-            distance + skinWidth,
+            distance + skin,
             obstacleMask
         );
 
         if (hit.collider == null)
             return distance;
 
-        float allowedDistance = hit.distance - skinWidth;
+        float allowedDistance = hit.distance - skin;
         return Mathf.Max(allowedDistance, 0f);
     }
 }
