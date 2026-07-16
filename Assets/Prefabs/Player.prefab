@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 3458034480997580959}
   - component: {fileID: 2928809607402327052}
   - component: {fileID: 4831819086559300637}
+  - component: {fileID: 1284706052196154872}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -212,3 +213,22 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &1284706052196154872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7851630079194288941}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfb820da391fde943b7e67610562fab6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerDeflectBoxes
+  playerInput: {fileID: 0}
+  _boxOffset: {x: 0, y: 0}
+  _boxSize: {x: 1, y: 1}
+  _boxAngle: 0
+  _targetMask:
+    serializedVersion: 2
+    m_Bits: 0

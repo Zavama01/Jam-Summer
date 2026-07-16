@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UIElements;
 
 [RequireComponent(typeof(BoxCollider2D))]
 public class Projectile : MonoBehaviour
@@ -11,6 +12,16 @@ public class Projectile : MonoBehaviour
     private float speed;
     private BoxCollider2D boxCol;
     private float lifeTimer;
+
+    private void OnEnable()
+    {
+        EventBus<ProjectilePayload>.Subscribe("OnDeflect", OnDeflect);
+    }
+
+    private void OnDisable()
+    {
+        EventBus<ProjectilePayload>.Unsubscribe("OnDeflect", OnDeflect);
+    }
 
     public void Initialize(Vector2 newDirection, float newSpeed)
     {
@@ -53,5 +64,11 @@ public class Projectile : MonoBehaviour
         }
 
         transform.position += (Vector3)movement;
+    }
+
+
+    private void OnDeflect(Vector2 newDirection)
+    {
+        direction = newDirection.normalized;
     }
 }
