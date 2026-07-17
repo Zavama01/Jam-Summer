@@ -12,12 +12,24 @@ public class PlayerDeflectBoxes : MonoBehaviour
     [SerializeField] private float _boxAngle = 0f;
     [SerializeField] private LayerMask _targetMask;
 
+    private Vector2 _deflectDirection = Vector2.one;
+
     private InputAction _deflectAction;
 
     private void Awake()
     {
-        _playerInput.GetComponent<PlayerInput>();
+        _playerInput = GetComponent<PlayerInput>();
         _deflectAction = _playerInput.actions["Deflect"];
+    }
+
+    private void OnEnable()
+    {
+        _deflectAction.Enable();
+    }
+
+    private void OnDisable()
+    {
+        _deflectAction.Disable();
     }
 
     private void Update()
@@ -50,12 +62,12 @@ public class PlayerDeflectBoxes : MonoBehaviour
             Debug.Log("Dentro al box: " + hit.name);
         }
 
-        EventBus<ProjectilePayload>.Raise("OnDeflect", new ProjectilePayload());
+        EventBus<ProjectilePayload>.Raise("OnDeflect", new ProjectilePayload { direction = _deflectDirection });
     }
 
-    private void OnDrawGizmosSelected()
+    private void OnDrawGizmos()
     {
-        Gizmos.color = Color.green;
+        Gizmos.color = Color.red;
 
         Vector3 center = transform.position + (Vector3)_boxOffset;
         Quaternion rotation = Quaternion.Euler(0f, 0f, _boxAngle);

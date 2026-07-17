@@ -8,7 +8,7 @@ public class Projectile : MonoBehaviour
     [SerializeField] private float maxLifetime = 5f;
     [SerializeField] private float skin = 0.01f;
 
-    private Vector2 direction;
+    private Vector2 _direction;
     private float speed;
     private BoxCollider2D boxCol;
     private float lifeTimer;
@@ -25,7 +25,7 @@ public class Projectile : MonoBehaviour
 
     public void Initialize(Vector2 newDirection, float newSpeed)
     {
-        direction = newDirection.normalized;
+        _direction = newDirection.normalized;
         speed = newSpeed;
         lifeTimer = 0f;
     }
@@ -45,14 +45,14 @@ public class Projectile : MonoBehaviour
             return;
         }
 
-        Vector2 movement = direction * speed * Time.deltaTime;
+        Vector2 movement = _direction * speed * Time.deltaTime;
         float distance = movement.magnitude;
 
         RaycastHit2D hit = Physics2D.BoxCast(
             boxCol.bounds.center,
             boxCol.bounds.size,
             0f,
-            direction,
+            _direction,
             distance + skin,
             hitMask
         );
@@ -67,8 +67,8 @@ public class Projectile : MonoBehaviour
     }
 
 
-    private void OnDeflect(Vector2 newDirection)
+    private void OnDeflect(IEventPayload payload)
     {
-        direction = newDirection.normalized;
+        _direction = ((ProjectilePayload)payload).direction.normalized;
     }
 }

@@ -225,10 +225,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bfb820da391fde943b7e67610562fab6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerDeflectBoxes
-  playerInput: {fileID: 0}
-  _boxOffset: {x: 0, y: 0}
-  _boxSize: {x: 1, y: 1}
+  _boxOffset: {x: 9, y: 9}
+  _boxSize: {x: 9, y: 9}
   _boxAngle: 0
   _targetMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 128
