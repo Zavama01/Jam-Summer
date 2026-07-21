@@ -19,7 +19,20 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
-        moveInput = moveAction.ReadValue<Vector2>();
+        Vector2 input = moveAction.ReadValue<Vector2>();
+
+        if (Mathf.Abs(input.x) > Mathf.Abs(input.y))
+        {
+            moveInput = new Vector2(Mathf.Sign(input.x), 0f);
+        }
+        else if (Mathf.Abs(input.y) > 0f)
+        {
+            moveInput = new Vector2(0f, Mathf.Sign(input.y));
+        }
+        else
+        {
+            moveInput = Vector2.zero;
+        }
     }
 
     private void FixedUpdate()

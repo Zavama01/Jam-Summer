@@ -1,20 +1,25 @@
+using System;
+using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using UnityEngine.UIElements;
+
+[Serializable]
+public class DeflectBoxData
+{
+    public Vector2 boxOffset = Vector2.zero;
+    public Vector2 boxSize = Vector2.one;
+    public float boxAngle = 0f;
+    public Vector2 deflectDirection = Vector2.right;
+}
 
 public class PlayerDeflectBoxes : MonoBehaviour
 {
     private PlayerInput _playerInput;
-
-    [SerializeField] private Vector2 _boxOffset = Vector2.zero;
-    [SerializeField] private Vector2 _boxSize = Vector2.one;
-    [SerializeField] private float _boxAngle = 0f;
-    [SerializeField] private LayerMask _targetMask;
-
-    private Vector2 _deflectDirection = Vector2.one;
-
     private InputAction _deflectAction;
+
+    [SerializeField] private List<DeflectBoxData> _boxes = new();
+    [SerializeField] private LayerMask _targetMask;
 
     private void Awake()
     {
@@ -24,12 +29,12 @@ public class PlayerDeflectBoxes : MonoBehaviour
 
     private void OnEnable()
     {
-        _deflectAction.Enable();
+        _deflectAction?.Enable();
     }
 
     private void OnDisable()
     {
-        _deflectAction.Disable();
+        _deflectAction?.Disable();
     }
 
     private void Update()
@@ -42,38 +47,55 @@ public class PlayerDeflectBoxes : MonoBehaviour
 
     private void DeflectSlash()
     {
-        Vector2 boxCenter = (Vector2)transform.position + _boxOffset;
+        bool foundAnyHit = false;
 
-        Collider2D[] hits = Physics2D.OverlapBoxAll(
-            boxCenter,
-            _boxSize,
-            _boxAngle,
-            _targetMask
-        );
-
-        if (hits.Length == 0)
+        foreach (var box in _boxes)
         {
-            Debug.Log("Nessun collider nel box");
-            return;
+            Vector2 boxCenter = (Vector2)transform.position + box.boxOffset;
+
+            Collider2D[] hits = Physics2D.OverlapBoxAll(
+                boxCenter,
+                box.boxSize,
+                box.boxAngle,
+                _targetMask
+            );
+
+            if (hits.Length <= 0) continue;
+
+            foundAnyHit = true;
+
+            foreach (Collider2D hit in hits)
+            {
+                Debug.Log("Dentro al box: " + hit.name);
+
+                EventBus<ProjectilePayload>.Raise(
+                    "OnDeflect",
+                    new ProjectilePayload { direction = box.deflectDirection }
+                );
+            }
         }
 
-        foreach (Collider2D hit in hits)
+        if (!foundAnyHit)
         {
-            Debug.Log("Dentro al box: " + hit.name);
+            Debug.Log("Nessun collider in nessun box");
         }
-
-        EventBus<ProjectilePayload>.Raise("OnDeflect", new ProjectilePayload { direction = _deflectDirection });
     }
 
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.red;
 
-        Vector3 center = transform.position + (Vector3)_boxOffset;
-        Quaternion rotation = Quaternion.Euler(0f, 0f, _boxAngle);
+        if (_boxes == null) return;
 
-        Gizmos.matrix = Matrix4x4.TRS(center, rotation, Vector3.one);
-        Gizmos.DrawWireCube(Vector3.zero, _boxSize);
+        foreach (var box in _boxes)
+        {
+            Vector3 center = transform.position + (Vector3)box.boxOffset;
+            Quaternion rotation = Quaternion.Euler(0f, 0f, box.boxAngle);
+
+            Gizmos.matrix = Matrix4x4.TRS(center, rotation, Vector3.one);
+            Gizmos.DrawWireCube(Vector3.zero, box.boxSize);
+        }
+
+        Gizmos.matrix = Matrix4x4.identity;
     }
 }
-
