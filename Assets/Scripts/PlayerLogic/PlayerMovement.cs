@@ -33,6 +33,14 @@ public class PlayerMovement : MonoBehaviour
         {
             moveInput = Vector2.zero;
         }
+
+        EventBus<PlayerDirectionPayload>.Raise(
+            "OnFacingDirectionChanged",
+            new PlayerDirectionPayload
+            {
+                facingDirection = moveInput
+            }
+        );
     }
 
     private void FixedUpdate()
