@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ProjectilePayload : IEventPayload
+public class DirectionPayload : IEventPayload
 {
     public Vector2 direction;
     

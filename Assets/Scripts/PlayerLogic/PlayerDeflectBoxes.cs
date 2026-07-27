@@ -47,12 +47,14 @@ public class PlayerDeflectBoxes : MonoBehaviour
     private void OnEnable()
     {
         _deflectAction?.Enable();
+        EventBus<DirectionPayload>.Subscribe("OnFacingDirectionChanged", OnFacingDirectionChanged);
 
     }
 
     private void OnDisable()
     {
         _deflectAction?.Disable();
+        EventBus<DirectionPayload>.Unsubscribe("OnFacingDirectionChanged", OnFacingDirectionChanged);
     }
 
     private void Update()
@@ -63,17 +65,19 @@ public class PlayerDeflectBoxes : MonoBehaviour
         }
     }
 
-    public void SetFacing(Vector2 input)
+    public void OnFacingDirectionChanged(IEventPayload payload)
     {
-        if (input == Vector2.zero) return;
+        Vector2 newDirection = ((DirectionPayload)payload).direction;
 
-        if (Mathf.Abs(input.x) > Mathf.Abs(input.y))
+        if (newDirection == Vector2.zero) return;
+
+        if (Mathf.Abs(newDirection.x) > Mathf.Abs(newDirection.y))
         {
-            _currentFacing = input.x > 0f ? FacingDirection.Right : FacingDirection.Left;
+            _currentFacing = newDirection.x > 0f ? FacingDirection.Right : FacingDirection.Left;
         }
         else
         {
-            _currentFacing = input.y > 0f ? FacingDirection.Up : FacingDirection.Down;
+            _currentFacing = newDirection.y > 0f ? FacingDirection.Up : FacingDirection.Down;
         }
     }
 
@@ -119,9 +123,9 @@ public class PlayerDeflectBoxes : MonoBehaviour
             {
                 Debug.Log($"Dentro al box: {hit.name}");
 
-                EventBus<ProjectilePayload>.Raise(
+                EventBus<DirectionPayload>.Raise(
                     "OnDeflect",
-                    new ProjectilePayload
+                    new DirectionPayload
                     {
                         direction = worldDeflectDirection
                     }

@@ -15,12 +15,12 @@ public class Projectile : MonoBehaviour
 
     private void OnEnable()
     {
-        EventBus<ProjectilePayload>.Subscribe("OnDeflect", OnDeflect);
+        EventBus<DirectionPayload>.Subscribe("OnDeflect", OnDeflect);
     }
 
     private void OnDisable()
     {
-        EventBus<ProjectilePayload>.Unsubscribe("OnDeflect", OnDeflect);
+        EventBus<DirectionPayload>.Unsubscribe("OnDeflect", OnDeflect);
     }
 
     public void Initialize(Vector2 newDirection, float newSpeed)
@@ -69,6 +69,6 @@ public class Projectile : MonoBehaviour
 
     private void OnDeflect(IEventPayload payload)
     {
-        _direction = ((ProjectilePayload)payload).direction.normalized;
+        _direction = ((DirectionPayload)payload).direction.normalized;
     }
 }
