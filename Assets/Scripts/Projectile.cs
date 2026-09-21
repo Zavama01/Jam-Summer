@@ -7,11 +7,14 @@ public class Projectile : MonoBehaviour
     [SerializeField] private LayerMask hitMask;
     [SerializeField] private float maxLifetime = 5f;
     [SerializeField] private float skin = 0.01f;
+    [SerializeField] private int damage;
 
     private Vector2 _direction;
     private float speed;
     private BoxCollider2D boxCol;
     private float lifeTimer;
+
+   
 
     private void OnEnable()
     {
@@ -70,5 +73,10 @@ public class Projectile : MonoBehaviour
     private void OnDeflect(IEventPayload payload)
     {
         _direction = ((DirectionPayload)payload).direction.normalized;
+    }
+
+    public int GetDamage()
+    {
+        return damage;
     }
 }

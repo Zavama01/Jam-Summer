@@ -153,6 +153,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Projectile
   hitMask:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 320
   maxLifetime: 5
   skin: 0.01
+  damage: 1

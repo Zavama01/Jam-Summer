@@ -11,19 +11,15 @@ public class PlayerLife : MonoBehaviour
         currentHealth = maxHealth;
     }
 
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        // se vieni colpito chiama TakeDamage e Lancia evento per UI
-    }
+        Projectile projectile = other.GetComponent<Projectile>();
 
-    private void OnEnable()
-    {
-        
-    }
-
-    private void OnDisable()
-    {
-        
+        if (projectile != null)
+        {   
+            TakeDamage(projectile.GetDamage());
+            
+        }
     }
 
     private void TakeDamage(int damage)
@@ -37,5 +33,7 @@ public class PlayerLife : MonoBehaviour
             // evento Gameover
 
         }
+
+        EventBus<HeartsPayload>.Raise("OnHeartUpdate", new HeartsPayload { hearts_number = currentHealth });
     }
 }

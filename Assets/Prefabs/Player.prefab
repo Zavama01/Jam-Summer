@@ -15,7 +15,8 @@ GameObject:
   - component: {fileID: 2928809607402327052}
   - component: {fileID: 4831819086559300637}
   - component: {fileID: 1284706052196154872}
-  m_Layer: 0
+  - component: {fileID: 1183844861188655552}
+  m_Layer: 8
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -225,9 +226,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bfb820da391fde943b7e67610562fab6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerDeflectBoxes
-  _boxOffset: {x: 9, y: 9}
-  _boxSize: {x: 9, y: 9}
-  _boxAngle: 0
+  _boxes: []
   _targetMask:
     serializedVersion: 2
     m_Bits: 128
+  _currentFacing: 0
+--- !u!114 &1183844861188655552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7851630079194288941}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b208a8bb811df344a26e9fb5edf88f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerLife
+  maxHealth: 3
