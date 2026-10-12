@@ -3,7 +3,7 @@ using UnityEngine;
 public class Shooter : MonoBehaviour
 {
     [SerializeField] private Projectile projectilePrefab;
-    [SerializeField] private Transform firePoint;
+    //[SerializeField] private Transform firePoint;
     [SerializeField] private Vector2 shootDirection = Vector2.right;
     [SerializeField] private float shootInterval = 2f;
     [SerializeField] private float projectileSpeed = 8f;
@@ -25,7 +25,7 @@ public class Shooter : MonoBehaviour
     {
         Projectile projectile = Instantiate(
             projectilePrefab,
-            firePoint.position,
+            transform.position,
             Quaternion.identity
         );
 
