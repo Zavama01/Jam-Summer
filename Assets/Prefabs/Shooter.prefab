@@ -45,7 +45,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Shooter
   projectilePrefab: {fileID: 4783596566387324371, guid: 17ea26cec2ad1a44fa8267b58ee420e8, type: 3}
-  firePoint: {fileID: 0}
   shootDirection: {x: 1, y: 0}
   shootInterval: 2
-  projectileSpeed: 8
+  projectileSpeed: 12

@@ -199,7 +199,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 0.0001
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 0
@@ -226,7 +226,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bfb820da391fde943b7e67610562fab6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerDeflectBoxes
-  _boxes: []
+  _boxes:
+  - localOffset: {x: 1.5, y: 1}
+    size: {x: 1.7, y: 1}
+    localAngle: 0
+    localDeflectDirection: {x: 1, y: 1}
+  - localOffset: {x: 1.5, y: 0}
+    size: {x: 1.7, y: 1}
+    localAngle: 0
+    localDeflectDirection: {x: 1, y: 0}
+  - localOffset: {x: 1.5, y: -1}
+    size: {x: 1.7, y: 1}
+    localAngle: 0
+    localDeflectDirection: {x: 1, y: -1}
   _targetMask:
     serializedVersion: 2
     m_Bits: 128
@@ -243,4 +255,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b208a8bb811df344a26e9fb5edf88f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerLife
-  maxHealth: 3
+  maxHealth: 5
