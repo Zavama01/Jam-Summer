@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 22ea00fcfcccf394a8a97d89154e760c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 198532416050984199
+    second: mage_run_sheet_0
+  - first:
+      213: 4700266980748436919
+    second: mage_run_sheet_1
+  - first:
+      213: 8540074874250316062
+    second: mage_run_sheet_2
+  - first:
+      213: 391330185545378362
+    second: mage_run_sheet_3
+  - first:
+      213: -4676473238744267814
+    second: mage_run_sheet_4
+  - first:
+      213: -5347817067771163279
+    second: mage_run_sheet_5
+  - first:
+      213: 6911711254905548335
+    second: mage_run_sheet_6
+  - first:
+      213: -2690176118562156127
+    second: mage_run_sheet_7
+  - first:
+      213: 3725755353460622012
+    second: mage_run_sheet_8
+  - first:
+      213: 5525021248445060954
+    second: mage_run_sheet_9
+  - first:
+      213: -7754060927606066735
+    second: mage_run_sheet_10
+  - first:
+      213: 7608456467654085367
+    second: mage_run_sheet_11
+  - first:
+      213: 7415415229932405404
+    second: mage_run_sheet_12
+  - first:
+      213: 8175159055228925598
+    second: mage_run_sheet_13
+  - first:
+      213: -4704054177490455764
+    second: mage_run_sheet_14
+  - first:
+      213: 697787074242730293
+    second: mage_run_sheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mage_run_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 776
+        width: 148
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7057e173e2451c200800000000000000
+      internalID: 198532416050984199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_run_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 784
+        width: 151
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b522097ae3ba3140800000000000000
+      internalID: 4700266980748436919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_run_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 776
+        width: 148
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19cde2d9d0748670800000000000000
+      internalID: 8540074874250316062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_run_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 784
+        width: 148
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ae15bfab84e6500800000000000000
+      internalID: 391330185545378362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_run_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 537
+        width: 145
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3070bcd54d91fb0800000000000000
+      internalID: -4676473238744267814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_run_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 537
+        width: 141
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d8ab7f5bcb8c5b0800000000000000
+      internalID: -5347817067771163279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_run_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 540
+        width: 139
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ee6ba34c45bef50800000000000000
+      internalID: 6911711254905548335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_run_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 523
+        width: 141
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a11dd5c2139aaad0800000000000000
+      internalID: -2690176118562156127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_run_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 272
+        width: 174
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2c70b01ca84b330800000000000000
+      internalID: 3725755353460622012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_run_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 264
+        width: 177
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a579d0a7d81dcac40800000000000000
+      internalID: 5525021248445060954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_run_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 264
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1fd4b4baa046490800000000000000
+      internalID: -7754060927606066735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_run_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 264
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa8b8398daa69960800000000000000
+      internalID: 7608456467654085367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_run_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 16
+        width: 174
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c928422fcd8d8e660800000000000000
+      internalID: 7415415229932405404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_run_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 8
+        width: 177
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96fc3dc8dff37170800000000000000
+      internalID: 8175159055228925598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_run_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 8
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c233d7216a7d7beb0800000000000000
+      internalID: -4704054177490455764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_run_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 8
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539d811a5a90fa900800000000000000
+      internalID: 697787074242730293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mage_run_sheet_0: 198532416050984199
+      mage_run_sheet_1: 4700266980748436919
+      mage_run_sheet_10: -7754060927606066735
+      mage_run_sheet_11: 7608456467654085367
+      mage_run_sheet_12: 7415415229932405404
+      mage_run_sheet_13: 8175159055228925598
+      mage_run_sheet_14: -4704054177490455764
+      mage_run_sheet_15: 697787074242730293
+      mage_run_sheet_2: 8540074874250316062
+      mage_run_sheet_3: 391330185545378362
+      mage_run_sheet_4: -4676473238744267814
+      mage_run_sheet_5: -5347817067771163279
+      mage_run_sheet_6: 6911711254905548335
+      mage_run_sheet_7: -2690176118562156127
+      mage_run_sheet_8: 3725755353460622012
+      mage_run_sheet_9: 5525021248445060954
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

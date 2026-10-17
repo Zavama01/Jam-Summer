@@ -1,0 +1,3978 @@
+fileFormatVersion: 2
+guid: b6ac3c56d0a5b954390651b7bb814268
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7386763383542035945
+    second: DarkSwamp_A2_0
+  - first:
+      213: -9025353947122008125
+    second: DarkSwamp_A2_1
+  - first:
+      213: 3551765029175925490
+    second: DarkSwamp_A2_2
+  - first:
+      213: -3173431116235191235
+    second: DarkSwamp_A2_3
+  - first:
+      213: -2507224861190499073
+    second: DarkSwamp_A2_4
+  - first:
+      213: 7404187944686324275
+    second: DarkSwamp_A2_5
+  - first:
+      213: -7829289916504357884
+    second: DarkSwamp_A2_6
+  - first:
+      213: -8762173101695065297
+    second: DarkSwamp_A2_7
+  - first:
+      213: -1569881323476493393
+    second: DarkSwamp_A2_8
+  - first:
+      213: 1314495186717294451
+    second: DarkSwamp_A2_9
+  - first:
+      213: 1975278556236634977
+    second: DarkSwamp_A2_10
+  - first:
+      213: 391836248318125643
+    second: DarkSwamp_A2_11
+  - first:
+      213: 4414497242698702416
+    second: DarkSwamp_A2_12
+  - first:
+      213: -8421234350972536729
+    second: DarkSwamp_A2_13
+  - first:
+      213: 479326959221150987
+    second: DarkSwamp_A2_14
+  - first:
+      213: -2502769068169531152
+    second: DarkSwamp_A2_15
+  - first:
+      213: 5489011105855282843
+    second: DarkSwamp_A2_16
+  - first:
+      213: 6441627598248808537
+    second: DarkSwamp_A2_17
+  - first:
+      213: 252974645769623693
+    second: DarkSwamp_A2_18
+  - first:
+      213: 6743137178694993521
+    second: DarkSwamp_A2_19
+  - first:
+      213: 5092861661549920833
+    second: DarkSwamp_A2_20
+  - first:
+      213: 2500896858461995166
+    second: DarkSwamp_A2_21
+  - first:
+      213: 7857566532607263215
+    second: DarkSwamp_A2_22
+  - first:
+      213: -543598147777314430
+    second: DarkSwamp_A2_23
+  - first:
+      213: -6801651035053420803
+    second: DarkSwamp_A2_24
+  - first:
+      213: 5595790774324037949
+    second: DarkSwamp_A2_25
+  - first:
+      213: -6625988889249107229
+    second: DarkSwamp_A2_26
+  - first:
+      213: 492059998898512372
+    second: DarkSwamp_A2_27
+  - first:
+      213: -4904681958285385197
+    second: DarkSwamp_A2_28
+  - first:
+      213: 4241175873998733952
+    second: DarkSwamp_A2_29
+  - first:
+      213: 8632701177512455912
+    second: DarkSwamp_A2_30
+  - first:
+      213: 4893477535932968653
+    second: DarkSwamp_A2_31
+  - first:
+      213: -3452984950603599670
+    second: DarkSwamp_A2_32
+  - first:
+      213: -769880527237716836
+    second: DarkSwamp_A2_33
+  - first:
+      213: -5707263222564316726
+    second: DarkSwamp_A2_34
+  - first:
+      213: 3536050983790440144
+    second: DarkSwamp_A2_35
+  - first:
+      213: -8515654250715964408
+    second: DarkSwamp_A2_36
+  - first:
+      213: 1958315551756234692
+    second: DarkSwamp_A2_37
+  - first:
+      213: -4258996290454988427
+    second: DarkSwamp_A2_38
+  - first:
+      213: -1803700136035826596
+    second: DarkSwamp_A2_39
+  - first:
+      213: -9041190322016874565
+    second: DarkSwamp_A2_40
+  - first:
+      213: 4934021561835602560
+    second: DarkSwamp_A2_41
+  - first:
+      213: 1545639220464390024
+    second: DarkSwamp_A2_42
+  - first:
+      213: 1153975016511719512
+    second: DarkSwamp_A2_43
+  - first:
+      213: -4356148404081136157
+    second: DarkSwamp_A2_44
+  - first:
+      213: -9145846023640488411
+    second: DarkSwamp_A2_45
+  - first:
+      213: -8152960079133717275
+    second: DarkSwamp_A2_46
+  - first:
+      213: -6640058969599744857
+    second: DarkSwamp_A2_47
+  - first:
+      213: 1858113092416082299
+    second: DarkSwamp_A2_48
+  - first:
+      213: -8634684026979775870
+    second: DarkSwamp_A2_49
+  - first:
+      213: -6797354891026302175
+    second: DarkSwamp_A2_50
+  - first:
+      213: -5695757954746362818
+    second: DarkSwamp_A2_51
+  - first:
+      213: -975362633021470816
+    second: DarkSwamp_A2_52
+  - first:
+      213: -5144262546717657951
+    second: DarkSwamp_A2_53
+  - first:
+      213: -8446140582884439799
+    second: DarkSwamp_A2_54
+  - first:
+      213: 4904463216082517644
+    second: DarkSwamp_A2_55
+  - first:
+      213: 7925856640192602208
+    second: DarkSwamp_A2_56
+  - first:
+      213: 539222992082856040
+    second: DarkSwamp_A2_57
+  - first:
+      213: 6021001471955079930
+    second: DarkSwamp_A2_58
+  - first:
+      213: -5052263589075308710
+    second: DarkSwamp_A2_59
+  - first:
+      213: -2406249442511764346
+    second: DarkSwamp_A2_60
+  - first:
+      213: -583939762301315963
+    second: DarkSwamp_A2_61
+  - first:
+      213: -5467939170303527382
+    second: DarkSwamp_A2_62
+  - first:
+      213: -7787541080705913160
+    second: DarkSwamp_A2_63
+  - first:
+      213: -3274383381129601093
+    second: DarkSwamp_A2_64
+  - first:
+      213: -1605966449906815238
+    second: DarkSwamp_A2_65
+  - first:
+      213: 1626348322637887406
+    second: DarkSwamp_A2_66
+  - first:
+      213: 4797815446352413378
+    second: DarkSwamp_A2_67
+  - first:
+      213: -7456402567261105448
+    second: DarkSwamp_A2_68
+  - first:
+      213: 2618888765781786656
+    second: DarkSwamp_A2_69
+  - first:
+      213: -4595706119969998176
+    second: DarkSwamp_A2_70
+  - first:
+      213: -2223795731475928784
+    second: DarkSwamp_A2_71
+  - first:
+      213: -6816628026308908156
+    second: DarkSwamp_A2_72
+  - first:
+      213: 7119987560163451802
+    second: DarkSwamp_A2_73
+  - first:
+      213: 7174499145717201105
+    second: DarkSwamp_A2_74
+  - first:
+      213: 620908534286305550
+    second: DarkSwamp_A2_75
+  - first:
+      213: -2694023598503197288
+    second: DarkSwamp_A2_76
+  - first:
+      213: 6480961128767565809
+    second: DarkSwamp_A2_77
+  - first:
+      213: -4173919339740969834
+    second: DarkSwamp_A2_78
+  - first:
+      213: 7422744094757189615
+    second: DarkSwamp_A2_79
+  - first:
+      213: -260865141005859519
+    second: DarkSwamp_A2_80
+  - first:
+      213: -257436215257617098
+    second: DarkSwamp_A2_81
+  - first:
+      213: -2358516050108967583
+    second: DarkSwamp_A2_82
+  - first:
+      213: -1167376802581868723
+    second: DarkSwamp_A2_83
+  - first:
+      213: 3011192036628132166
+    second: DarkSwamp_A2_84
+  - first:
+      213: 3058984238935328974
+    second: DarkSwamp_A2_85
+  - first:
+      213: 2549884860737501266
+    second: DarkSwamp_A2_86
+  - first:
+      213: 5982950582580463888
+    second: DarkSwamp_A2_87
+  - first:
+      213: -2812949547115586629
+    second: DarkSwamp_A2_88
+  - first:
+      213: -4843149242281076820
+    second: DarkSwamp_A2_89
+  - first:
+      213: -3668087266085575474
+    second: DarkSwamp_A2_90
+  - first:
+      213: -9188348813166570995
+    second: DarkSwamp_A2_91
+  - first:
+      213: 7076421583470823362
+    second: DarkSwamp_A2_92
+  - first:
+      213: 3548065407947933272
+    second: DarkSwamp_A2_93
+  - first:
+      213: -5785155393364227521
+    second: DarkSwamp_A2_94
+  - first:
+      213: 5419346886414597735
+    second: DarkSwamp_A2_95
+  - first:
+      213: 5072293660011906287
+    second: DarkSwamp_A2_96
+  - first:
+      213: -5936550396155580118
+    second: DarkSwamp_A2_97
+  - first:
+      213: 1154888774274237136
+    second: DarkSwamp_A2_98
+  - first:
+      213: -2530099268439085621
+    second: DarkSwamp_A2_99
+  - first:
+      213: 681128320302233445
+    second: DarkSwamp_A2_100
+  - first:
+      213: 4297659151778906793
+    second: DarkSwamp_A2_101
+  - first:
+      213: 5310964374806552532
+    second: DarkSwamp_A2_102
+  - first:
+      213: 3851956227524629961
+    second: DarkSwamp_A2_103
+  - first:
+      213: -1664678281148990240
+    second: DarkSwamp_A2_104
+  - first:
+      213: 6740955361682440566
+    second: DarkSwamp_A2_105
+  - first:
+      213: -2753591757639174097
+    second: DarkSwamp_A2_106
+  - first:
+      213: -4185378577068043863
+    second: DarkSwamp_A2_107
+  - first:
+      213: 2690890490910948188
+    second: DarkSwamp_A2_108
+  - first:
+      213: -1417250849042471125
+    second: DarkSwamp_A2_109
+  - first:
+      213: -3336267933999214653
+    second: DarkSwamp_A2_110
+  - first:
+      213: -5647068056404231184
+    second: DarkSwamp_A2_111
+  - first:
+      213: 5022541337412405485
+    second: DarkSwamp_A2_112
+  - first:
+      213: 4743467569031580383
+    second: DarkSwamp_A2_113
+  - first:
+      213: -7684301934903227338
+    second: DarkSwamp_A2_114
+  - first:
+      213: 1748544955426986124
+    second: DarkSwamp_A2_115
+  - first:
+      213: -3057823146560614912
+    second: DarkSwamp_A2_116
+  - first:
+      213: -2492857909736230845
+    second: DarkSwamp_A2_117
+  - first:
+      213: -1691698200860806427
+    second: DarkSwamp_A2_118
+  - first:
+      213: -468391033797874197
+    second: DarkSwamp_A2_119
+  - first:
+      213: -6426176977784815290
+    second: DarkSwamp_A2_120
+  - first:
+      213: -2019028866008707429
+    second: DarkSwamp_A2_121
+  - first:
+      213: -5636342057428249116
+    second: DarkSwamp_A2_122
+  - first:
+      213: 2949267191750580222
+    second: DarkSwamp_A2_123
+  - first:
+      213: 2682657784196767599
+    second: DarkSwamp_A2_124
+  - first:
+      213: 6340191312064535150
+    second: DarkSwamp_A2_125
+  - first:
+      213: -495561949048383934
+    second: DarkSwamp_A2_126
+  - first:
+      213: 1131032932430925883
+    second: DarkSwamp_A2_127
+  - first:
+      213: 7282815072297829577
+    second: DarkSwamp_A2_128
+  - first:
+      213: 6107473046605090396
+    second: DarkSwamp_A2_129
+  - first:
+      213: 4032305767759097602
+    second: DarkSwamp_A2_130
+  - first:
+      213: -5228819310805687761
+    second: DarkSwamp_A2_131
+  - first:
+      213: -9215343418866233942
+    second: DarkSwamp_A2_132
+  - first:
+      213: 5728876899397478680
+    second: DarkSwamp_A2_133
+  - first:
+      213: 2029159508997507866
+    second: DarkSwamp_A2_134
+  - first:
+      213: -8846848413697169175
+    second: DarkSwamp_A2_135
+  - first:
+      213: -7980703483683536147
+    second: DarkSwamp_A2_136
+  - first:
+      213: -3081795676305029854
+    second: DarkSwamp_A2_137
+  - first:
+      213: -7851741085132819038
+    second: DarkSwamp_A2_138
+  - first:
+      213: -5468106163568688350
+    second: DarkSwamp_A2_139
+  - first:
+      213: 3578053400030534060
+    second: DarkSwamp_A2_140
+  - first:
+      213: 8159296905317764203
+    second: DarkSwamp_A2_141
+  - first:
+      213: -6812750941829471535
+    second: DarkSwamp_A2_142
+  - first:
+      213: -1065437168216166219
+    second: DarkSwamp_A2_143
+  - first:
+      213: 4188011721313965553
+    second: DarkSwamp_A2_144
+  - first:
+      213: 1392444299172112993
+    second: DarkSwamp_A2_145
+  - first:
+      213: 1083904237076105974
+    second: DarkSwamp_A2_146
+  - first:
+      213: 4869776357295941657
+    second: DarkSwamp_A2_147
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DarkSwamp_A2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 121
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a4d14e6d1fc7990800000000000000
+      internalID: -7386763383542035945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 564
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf7f9947608fb280800000000000000
+      internalID: -9025353947122008125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 561
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa9fa9d9776a4130800000000000000
+      internalID: 3551765029175925490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 566
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c41ad9635b5f3d0800000000000000
+      internalID: -3173431116235191235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 560
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff456b8c54c843dd0800000000000000
+      internalID: -2507224861190499073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 557
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a0245e4b5f0c660800000000000000
+      internalID: 7404187944686324275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 563
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404c5336d46c85390800000000000000
+      internalID: -7829289916504357884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 552
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23abfcecf1866680800000000000000
+      internalID: -8762173101695065297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 569
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabd9aef049a63ae0800000000000000
+      internalID: -1569881323476493393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 564
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fbe3768660e3210800000000000000
+      internalID: 1314495186717294451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 551
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b5ee4a169996b10800000000000000
+      internalID: 1975278556236634977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 554
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46af17edf4107500800000000000000
+      internalID: 391836248318125643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 552
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e5ffc6ad1734d30800000000000000
+      internalID: 4414497242698702416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 558
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768f6f3b9f3c12b80800000000000000
+      internalID: -8421234350972536729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 551
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0515af6459e6a600800000000000000
+      internalID: 479326959221150987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 556
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f07be0fac0644dd0800000000000000
+      internalID: -2502769068169531152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 551
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e9dacc482ec2c40800000000000000
+      internalID: 5489011105855282843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 555
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95019f0eb22456950800000000000000
+      internalID: 6441627598248808537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 540
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88574a991fb28300800000000000000
+      internalID: 252974645769623693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_19
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 556
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17648df898f649d50800000000000000
+      internalID: 6743137178694993521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_20
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 553
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14283e2b2ba7da640800000000000000
+      internalID: 5092861661549920833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 533
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9084844178f4b220800000000000000
+      internalID: 2500896858461995166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 543
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1cd07512fab0d60800000000000000
+      internalID: 7857566532607263215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 547
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2814c2d5d50c478f0800000000000000
+      internalID: -543598147777314430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_24
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 541
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe09799b6eab91a0800000000000000
+      internalID: -6801651035053420803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 546
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d390efcbf0e38ad40800000000000000
+      internalID: 5595790774324037949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 539
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e23f921632cb04a0800000000000000
+      internalID: -6625988889249107229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 534
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1668246f524d600800000000000000
+      internalID: 492059998898512372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 546
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312e12cbeb11febb0800000000000000
+      internalID: -4904681958285385197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_29
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 537
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082c6a79cfeabda30800000000000000
+      internalID: 4241175873998733952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 546
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eee9b1abf38dc770800000000000000
+      internalID: 8632701177512455912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 528
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce63a564ef19e340800000000000000
+      internalID: 4893477535932968653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_32
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 548
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0b08c6b788410d0800000000000000
+      internalID: -3452984950603599670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_33
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 538
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94618e4db5d055f0800000000000000
+      internalID: -769880527237716836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_34
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 531
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac91763665abbc0b0800000000000000
+      internalID: -5707263222564316726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 524
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0deef7c82a3921130800000000000000
+      internalID: 3536050983790440144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_36
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 533
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c970ca39152d980800000000000000
+      internalID: -8515654250715964408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 528
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfad846e955d2b10800000000000000
+      internalID: 1958315551756234692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 532
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57959bf507105e4c0800000000000000
+      internalID: -4258996290454988427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_39
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 519
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54c24e5848f7f6e0800000000000000
+      internalID: -1803700136035826596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_40
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 529
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf0c7ded4d378280800000000000000
+      internalID: -9041190322016874565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 523
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082445b087a297440800000000000000
+      internalID: 4934021561835602560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_42
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 527
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f01be8ea6337510800000000000000
+      internalID: 1545639220464390024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_43
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 513
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8584bdad92eb30010800000000000000
+      internalID: 1153975016511719512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_44
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edebd93b1adb83c0800000000000000
+      internalID: -4356148404081136157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_45
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 518
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5266d7e8f7d631180800000000000000
+      internalID: -9145846023640488411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_46
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 522
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec4b47110edade80800000000000000
+      internalID: -8152960079133717275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_47
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 518
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a46c553c85c9d3a0800000000000000
+      internalID: -6640058969599744857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_48
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 516
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7196f9430859c910800000000000000
+      internalID: 1858113092416082299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_49
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 522
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a812040a07b2880800000000000000
+      internalID: -8634684026979775870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 513
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bfc149db1faa1a0800000000000000
+      internalID: -6797354891026302175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_51
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 520
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34dcbc415a94f0b0800000000000000
+      internalID: -5695757954746362818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 510
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7c09b5ad0d672f0800000000000000
+      internalID: -975362633021470816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 506
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a43c8f1878eb98b0800000000000000
+      internalID: -5144262546717657951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_54
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 513
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9098922b3e749ca80800000000000000
+      internalID: -8446140582884439799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_55
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 508
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e71906f47201440800000000000000
+      internalID: 4904463216082517644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_56
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 511
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060e95b0f9c4efd60800000000000000
+      internalID: 7925856640192602208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_57
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 510
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86862d15474bb7700800000000000000
+      internalID: 539222992082856040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_58
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 507
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af29cf720f4ee8350800000000000000
+      internalID: 6021001471955079930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_59
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 511
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fa685a801c2e9b0800000000000000
+      internalID: -5052263589075308710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_60
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 507
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684ca1281e84b9ed0800000000000000
+      internalID: -2406249442511764346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_61
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 492
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584ddc941ed65e7f0800000000000000
+      internalID: -583939762301315963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 505
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a263d948b4afd14b0800000000000000
+      internalID: -5467939170303527382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_63
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 504
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be23c2b5a81de390800000000000000
+      internalID: -7787541080705913160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_64
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 497
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfd35dc9ad0f82d0800000000000000
+      internalID: -3274383381129601093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_65
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 505
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeeb18c50676b9e0800000000000000
+      internalID: -1605966449906815238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_66
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 506
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea732e3ce23f19610800000000000000
+      internalID: 1626348322637887406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_67
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 497
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2c7b18ab3459240800000000000000
+      internalID: 4797815446352413378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_68
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 499
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2571cee59858890800000000000000
+      internalID: -7456402567261105448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_69
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 505
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0204faef479285420800000000000000
+      internalID: 2618888765781786656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_70
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 498
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa791b02a5c830c0800000000000000
+      internalID: -4595706119969998176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_71
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 504
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039e85c709d7321e0800000000000000
+      internalID: -2223795731475928784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_72
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 505
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ba2e51de87661a0800000000000000
+      internalID: -6816628026308908156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_73
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 492
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a932eb076f64fc260800000000000000
+      internalID: 7119987560163451802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_74
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 488
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d831ddf5f0f09360800000000000000
+      internalID: 7174499145717201105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_75
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 492
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09c420b509ed9800800000000000000
+      internalID: 620908534286305550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_76
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 488
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89582ba8fc7ec9ad0800000000000000
+      internalID: -2694023598503197288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_77
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 488
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff2e4b1fcff0f950800000000000000
+      internalID: 6480961128767565809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_78
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 488
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6944b9199724316c0800000000000000
+      internalID: -4173919339740969834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_79
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 488
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe771a24d62e20760800000000000000
+      internalID: 7422744094757189615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_80
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 494
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14540105988316cf0800000000000000
+      internalID: -260865141005859519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_81
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 486
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63daf3d40276d6cf0800000000000000
+      internalID: -257436215257617098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_82
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 481
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165923cf52ed44fd0800000000000000
+      internalID: -2358516050108967583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_83
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 481
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f831babf4accfe0800000000000000
+      internalID: -1167376802581868723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_84
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 482
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64174bd0437e9c920800000000000000
+      internalID: 3011192036628132166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_85
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 481
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8424745f1b37a20800000000000000
+      internalID: 3058984238935328974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_86
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 475
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258b76e55c2036320800000000000000
+      internalID: 2549884860737501266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_87
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 482
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019cc671bd5b70350800000000000000
+      internalID: 5982950582580463888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_88
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 480
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb54116a4566f8d0800000000000000
+      internalID: -2812949547115586629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_89
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 481
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca752ab9c6da9ccb0800000000000000
+      internalID: -4843149242281076820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_90
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 475
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4e5dbd016581dc0800000000000000
+      internalID: -3668087266085575474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_91
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 482
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0213d6bf6d6c7080800000000000000
+      internalID: -9188348813166570995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_92
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 480
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c78fab00ff743260800000000000000
+      internalID: 7076421583470823362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_93
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 480
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8568698a0b24d3130800000000000000
+      internalID: 3548065407947933272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_94
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 481
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a071022dff6bfa0800000000000000
+      internalID: -5785155393364227521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_95
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 469
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e7c5fb743653b40800000000000000
+      internalID: 5419346886414597735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_96
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 470
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4c979a538646640800000000000000
+      internalID: 5072293660011906287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 473
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2131fd2ed22d9da0800000000000000
+      internalID: -5936550396155580118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_98
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 474
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2c3b9a83df60010800000000000000
+      internalID: 1154888774274237136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_99
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 464
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd6632de1843ecd0800000000000000
+      internalID: -2530099268439085621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 464
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567b21a399ad37900800000000000000
+      internalID: 681128320302233445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_101
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 473
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a20d738a3a54ab30800000000000000
+      internalID: 4297659151778906793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_102
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 469
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df591fc5f554b940800000000000000
+      internalID: 5310964374806552532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_103
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 474
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c595f7c7c5e47530800000000000000
+      internalID: 3851956227524629961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_104
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 464
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec7ec25cefd5e8e0800000000000000
+      internalID: -1664678281148990240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_105
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 474
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671c8d3bf2fac8d50800000000000000
+      internalID: 6740955361682440566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_106
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 472
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f283975b2e649c9d0800000000000000
+      internalID: -2753591757639174097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_107
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 467
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a15457fb5c8ae5c0800000000000000
+      internalID: -4185378577068043863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_108
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 473
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b393005a6f75520800000000000000
+      internalID: 2690890490910948188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_109
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 469
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27e3399cd9e45ce0800000000000000
+      internalID: -1417250849042471125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_110
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 462
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf43768df133b1d0800000000000000
+      internalID: -3336267933999214653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_111
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 459
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbf19ba58591a1b0800000000000000
+      internalID: -5647068056404231184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_112
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 464
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de88e2e5cb6a3b540800000000000000
+      internalID: 5022541337412405485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_113
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 467
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda86bf3f9e24d140800000000000000
+      internalID: 4743467569031580383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_114
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 461
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c0f377a10eb5590800000000000000
+      internalID: -7684301934903227338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_115
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 464
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88d60e6f54144810800000000000000
+      internalID: 1748544955426986124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_116
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 464
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e894b9c0e6095d0800000000000000
+      internalID: -3057823146560614912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_117
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 458
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34036a650f6976dd0800000000000000
+      internalID: -2492857909736230845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_118
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 463
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e236860371e588e0800000000000000
+      internalID: -1691698200860806427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_119
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 457
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedef7e16d0ff79f0800000000000000
+      internalID: -468391033797874197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_120
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 456
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641c7570612a1d6a0800000000000000
+      internalID: -6426176977784815290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_121
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 458
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e8a4291f7faf3e0800000000000000
+      internalID: -2019028866008707429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_122
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 457
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5156ae2c0b7c1b0800000000000000
+      internalID: -5636342057428249116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_123
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 456
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7d10092e6ede820800000000000000
+      internalID: 2949267191750580222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_124
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 458
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f1cf89a07ba3520800000000000000
+      internalID: 2682657784196767599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_125
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 457
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6adf931862ecf750800000000000000
+      internalID: 6340191312064535150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_126
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 459
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24655ce68096f19f0800000000000000
+      internalID: -495561949048383934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_127
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 457
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3050d6a57c32bf00800000000000000
+      internalID: 1131032932430925883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_128
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 459
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c44c25e8b1c11560800000000000000
+      internalID: 7282815072297829577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_129
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 445
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e4b2a806a12c450800000000000000
+      internalID: 6107473046605090396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_130
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 449
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f2a015bb0a5f730800000000000000
+      internalID: 4032305767759097602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_131
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 444
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2269b05a808f67b0800000000000000
+      internalID: -5228819310805687761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_132
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 448
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad8e3b4cf58c1080800000000000000
+      internalID: -9215343418866233942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_133
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 434
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8192786ef2f018f40800000000000000
+      internalID: 5728876899397478680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_134
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 447
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b076e82d5092c10800000000000000
+      internalID: 2029159508997507866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_135
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 450
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e82ad78d3ea93580800000000000000
+      internalID: -8846848413697169175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_136
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de202551778de3190800000000000000
+      internalID: -7980703483683536147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_137
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 447
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225018319234b35d0800000000000000
+      internalID: -3081795676305029854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_138
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 448
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a571585513090390800000000000000
+      internalID: -7851741085132819038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_139
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 449
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2234d5e5a626d14b0800000000000000
+      internalID: -5468106163568688350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_140
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 444
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9d2382c9cc7a130800000000000000
+      internalID: 3578053400030534060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_141
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 445
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cc86a3e45ab3170800000000000000
+      internalID: 8159296905317764203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_142
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 439
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2eb092d1f3471a0800000000000000
+      internalID: -6812750941829471535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_143
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 432
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b03af95a8ec631f0800000000000000
+      internalID: -1065437168216166219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_144
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 442
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f55714b87ece1a30800000000000000
+      internalID: 4188011721313965553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_145
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 439
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16aebad66b4f25310800000000000000
+      internalID: 1392444299172112993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_146
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 435
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa467d292dca0f00800000000000000
+      internalID: 1083904237076105974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkSwamp_A2_147
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 435
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9186838bbcbe49340800000000000000
+      internalID: 4869776357295941657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DarkSwamp_A2_0: -7386763383542035945
+      DarkSwamp_A2_1: -9025353947122008125
+      DarkSwamp_A2_10: 1975278556236634977
+      DarkSwamp_A2_100: 681128320302233445
+      DarkSwamp_A2_101: 4297659151778906793
+      DarkSwamp_A2_102: 5310964374806552532
+      DarkSwamp_A2_103: 3851956227524629961
+      DarkSwamp_A2_104: -1664678281148990240
+      DarkSwamp_A2_105: 6740955361682440566
+      DarkSwamp_A2_106: -2753591757639174097
+      DarkSwamp_A2_107: -4185378577068043863
+      DarkSwamp_A2_108: 2690890490910948188
+      DarkSwamp_A2_109: -1417250849042471125
+      DarkSwamp_A2_11: 391836248318125643
+      DarkSwamp_A2_110: -3336267933999214653
+      DarkSwamp_A2_111: -5647068056404231184
+      DarkSwamp_A2_112: 5022541337412405485
+      DarkSwamp_A2_113: 4743467569031580383
+      DarkSwamp_A2_114: -7684301934903227338
+      DarkSwamp_A2_115: 1748544955426986124
+      DarkSwamp_A2_116: -3057823146560614912
+      DarkSwamp_A2_117: -2492857909736230845
+      DarkSwamp_A2_118: -1691698200860806427
+      DarkSwamp_A2_119: -468391033797874197
+      DarkSwamp_A2_12: 4414497242698702416
+      DarkSwamp_A2_120: -6426176977784815290
+      DarkSwamp_A2_121: -2019028866008707429
+      DarkSwamp_A2_122: -5636342057428249116
+      DarkSwamp_A2_123: 2949267191750580222
+      DarkSwamp_A2_124: 2682657784196767599
+      DarkSwamp_A2_125: 6340191312064535150
+      DarkSwamp_A2_126: -495561949048383934
+      DarkSwamp_A2_127: 1131032932430925883
+      DarkSwamp_A2_128: 7282815072297829577
+      DarkSwamp_A2_129: 6107473046605090396
+      DarkSwamp_A2_13: -8421234350972536729
+      DarkSwamp_A2_130: 4032305767759097602
+      DarkSwamp_A2_131: -5228819310805687761
+      DarkSwamp_A2_132: -9215343418866233942
+      DarkSwamp_A2_133: 5728876899397478680
+      DarkSwamp_A2_134: 2029159508997507866
+      DarkSwamp_A2_135: -8846848413697169175
+      DarkSwamp_A2_136: -7980703483683536147
+      DarkSwamp_A2_137: -3081795676305029854
+      DarkSwamp_A2_138: -7851741085132819038
+      DarkSwamp_A2_139: -5468106163568688350
+      DarkSwamp_A2_14: 479326959221150987
+      DarkSwamp_A2_140: 3578053400030534060
+      DarkSwamp_A2_141: 8159296905317764203
+      DarkSwamp_A2_142: -6812750941829471535
+      DarkSwamp_A2_143: -1065437168216166219
+      DarkSwamp_A2_144: 4188011721313965553
+      DarkSwamp_A2_145: 1392444299172112993
+      DarkSwamp_A2_146: 1083904237076105974
+      DarkSwamp_A2_147: 4869776357295941657
+      DarkSwamp_A2_15: -2502769068169531152
+      DarkSwamp_A2_16: 5489011105855282843
+      DarkSwamp_A2_17: 6441627598248808537
+      DarkSwamp_A2_18: 252974645769623693
+      DarkSwamp_A2_19: 6743137178694993521
+      DarkSwamp_A2_2: 3551765029175925490
+      DarkSwamp_A2_20: 5092861661549920833
+      DarkSwamp_A2_21: 2500896858461995166
+      DarkSwamp_A2_22: 7857566532607263215
+      DarkSwamp_A2_23: -543598147777314430
+      DarkSwamp_A2_24: -6801651035053420803
+      DarkSwamp_A2_25: 5595790774324037949
+      DarkSwamp_A2_26: -6625988889249107229
+      DarkSwamp_A2_27: 492059998898512372
+      DarkSwamp_A2_28: -4904681958285385197
+      DarkSwamp_A2_29: 4241175873998733952
+      DarkSwamp_A2_3: -3173431116235191235
+      DarkSwamp_A2_30: 8632701177512455912
+      DarkSwamp_A2_31: 4893477535932968653
+      DarkSwamp_A2_32: -3452984950603599670
+      DarkSwamp_A2_33: -769880527237716836
+      DarkSwamp_A2_34: -5707263222564316726
+      DarkSwamp_A2_35: 3536050983790440144
+      DarkSwamp_A2_36: -8515654250715964408
+      DarkSwamp_A2_37: 1958315551756234692
+      DarkSwamp_A2_38: -4258996290454988427
+      DarkSwamp_A2_39: -1803700136035826596
+      DarkSwamp_A2_4: -2507224861190499073
+      DarkSwamp_A2_40: -9041190322016874565
+      DarkSwamp_A2_41: 4934021561835602560
+      DarkSwamp_A2_42: 1545639220464390024
+      DarkSwamp_A2_43: 1153975016511719512
+      DarkSwamp_A2_44: -4356148404081136157
+      DarkSwamp_A2_45: -9145846023640488411
+      DarkSwamp_A2_46: -8152960079133717275
+      DarkSwamp_A2_47: -6640058969599744857
+      DarkSwamp_A2_48: 1858113092416082299
+      DarkSwamp_A2_49: -8634684026979775870
+      DarkSwamp_A2_5: 7404187944686324275
+      DarkSwamp_A2_50: -6797354891026302175
+      DarkSwamp_A2_51: -5695757954746362818
+      DarkSwamp_A2_52: -975362633021470816
+      DarkSwamp_A2_53: -5144262546717657951
+      DarkSwamp_A2_54: -8446140582884439799
+      DarkSwamp_A2_55: 4904463216082517644
+      DarkSwamp_A2_56: 7925856640192602208
+      DarkSwamp_A2_57: 539222992082856040
+      DarkSwamp_A2_58: 6021001471955079930
+      DarkSwamp_A2_59: -5052263589075308710
+      DarkSwamp_A2_6: -7829289916504357884
+      DarkSwamp_A2_60: -2406249442511764346
+      DarkSwamp_A2_61: -583939762301315963
+      DarkSwamp_A2_62: -5467939170303527382
+      DarkSwamp_A2_63: -7787541080705913160
+      DarkSwamp_A2_64: -3274383381129601093
+      DarkSwamp_A2_65: -1605966449906815238
+      DarkSwamp_A2_66: 1626348322637887406
+      DarkSwamp_A2_67: 4797815446352413378
+      DarkSwamp_A2_68: -7456402567261105448
+      DarkSwamp_A2_69: 2618888765781786656
+      DarkSwamp_A2_7: -8762173101695065297
+      DarkSwamp_A2_70: -4595706119969998176
+      DarkSwamp_A2_71: -2223795731475928784
+      DarkSwamp_A2_72: -6816628026308908156
+      DarkSwamp_A2_73: 7119987560163451802
+      DarkSwamp_A2_74: 7174499145717201105
+      DarkSwamp_A2_75: 620908534286305550
+      DarkSwamp_A2_76: -2694023598503197288
+      DarkSwamp_A2_77: 6480961128767565809
+      DarkSwamp_A2_78: -4173919339740969834
+      DarkSwamp_A2_79: 7422744094757189615
+      DarkSwamp_A2_8: -1569881323476493393
+      DarkSwamp_A2_80: -260865141005859519
+      DarkSwamp_A2_81: -257436215257617098
+      DarkSwamp_A2_82: -2358516050108967583
+      DarkSwamp_A2_83: -1167376802581868723
+      DarkSwamp_A2_84: 3011192036628132166
+      DarkSwamp_A2_85: 3058984238935328974
+      DarkSwamp_A2_86: 2549884860737501266
+      DarkSwamp_A2_87: 5982950582580463888
+      DarkSwamp_A2_88: -2812949547115586629
+      DarkSwamp_A2_89: -4843149242281076820
+      DarkSwamp_A2_9: 1314495186717294451
+      DarkSwamp_A2_90: -3668087266085575474
+      DarkSwamp_A2_91: -9188348813166570995
+      DarkSwamp_A2_92: 7076421583470823362
+      DarkSwamp_A2_93: 3548065407947933272
+      DarkSwamp_A2_94: -5785155393364227521
+      DarkSwamp_A2_95: 5419346886414597735
+      DarkSwamp_A2_96: 5072293660011906287
+      DarkSwamp_A2_97: -5936550396155580118
+      DarkSwamp_A2_98: 1154888774274237136
+      DarkSwamp_A2_99: -2530099268439085621
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

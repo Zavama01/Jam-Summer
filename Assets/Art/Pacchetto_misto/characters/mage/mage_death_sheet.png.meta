@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: cf15399eb06f5ee4fb6b91835e8396e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9010867592330517533
+    second: mage_death_sheet_0
+  - first:
+      213: 6940794838920758080
+    second: mage_death_sheet_1
+  - first:
+      213: 5927017456587939835
+    second: mage_death_sheet_2
+  - first:
+      213: -2884476446584865571
+    second: mage_death_sheet_3
+  - first:
+      213: 7376982564796814574
+    second: mage_death_sheet_4
+  - first:
+      213: 9142032211749729414
+    second: mage_death_sheet_5
+  - first:
+      213: -7341094844730760768
+    second: mage_death_sheet_6
+  - first:
+      213: -6769143073058119181
+    second: mage_death_sheet_7
+  - first:
+      213: 1887407710533034461
+    second: mage_death_sheet_8
+  - first:
+      213: 9019366218036046449
+    second: mage_death_sheet_9
+  - first:
+      213: 1426135417332989613
+    second: mage_death_sheet_10
+  - first:
+      213: -6835162158909916728
+    second: mage_death_sheet_11
+  - first:
+      213: -7156891043030393382
+    second: mage_death_sheet_12
+  - first:
+      213: -3914455251054234083
+    second: mage_death_sheet_13
+  - first:
+      213: 2298052997699834470
+    second: mage_death_sheet_14
+  - first:
+      213: -7477016575281331317
+    second: mage_death_sheet_15
+  - first:
+      213: -2751815926656797318
+    second: mage_death_sheet_16
+  - first:
+      213: -3905768492487503211
+    second: mage_death_sheet_17
+  - first:
+      213: -4915982453565617944
+    second: mage_death_sheet_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mage_death_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 787
+        width: 189
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e36f099aa7f2f280800000000000000
+      internalID: -9010867592330517533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 776
+        width: 121
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0438cb0d128a25060800000000000000
+      internalID: 6940794838920758080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 854
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff967d59fef04250800000000000000
+      internalID: 5927017456587939835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 779
+        width: 180
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcf35654f748f7d0800000000000000
+      internalID: -2884476446584865571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 779
+        width: 173
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4d6f8ce8e406660800000000000000
+      internalID: 7376982564796814574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 520
+        width: 170
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684758a2cd50fde70800000000000000
+      internalID: 9142032211749729414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 520
+        width: 121
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c12f5d22213f1a90800000000000000
+      internalID: -7341094844730760768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 520
+        width: 200
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f123905d3c2f02a0800000000000000
+      internalID: -6769143073058119181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 523
+        width: 182
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1a7a4105b613a10800000000000000
+      internalID: 1887407710533034461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 360
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a6235e9c93b2d70800000000000000
+      internalID: 9019366218036046449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 272
+        width: 159
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae7cb72b96aac310800000000000000
+      internalID: 1426135417332989613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 264
+        width: 170
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c97bff0b30a421a0800000000000000
+      internalID: -6835162158909916728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 267
+        width: 179
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add9ff3e38d9dac90800000000000000
+      internalID: -7156891043030393382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 267
+        width: 176
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16ffb750bf0da9c0800000000000000
+      internalID: -3914455251054234083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 16
+        width: 159
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6629bea960354ef10800000000000000
+      internalID: 2298052997699834470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 104
+        width: 40
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8306aa2a0d4c3890800000000000000
+      internalID: -7477016575281331317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 8
+        width: 171
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75fb549ef59fc9d0800000000000000
+      internalID: -2751815926656797318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 11
+        width: 179
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5929e5eef3cebc9c0800000000000000
+      internalID: -3905768492487503211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mage_death_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 11
+        width: 177
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e80b25210ce6cbb0800000000000000
+      internalID: -4915982453565617944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mage_death_sheet_0: -9010867592330517533
+      mage_death_sheet_1: 6940794838920758080
+      mage_death_sheet_10: 1426135417332989613
+      mage_death_sheet_11: -6835162158909916728
+      mage_death_sheet_12: -7156891043030393382
+      mage_death_sheet_13: -3914455251054234083
+      mage_death_sheet_14: 2298052997699834470
+      mage_death_sheet_15: -7477016575281331317
+      mage_death_sheet_16: -2751815926656797318
+      mage_death_sheet_17: -3905768492487503211
+      mage_death_sheet_18: -4915982453565617944
+      mage_death_sheet_2: 5927017456587939835
+      mage_death_sheet_3: -2884476446584865571
+      mage_death_sheet_4: 7376982564796814574
+      mage_death_sheet_5: 9142032211749729414
+      mage_death_sheet_6: -7341094844730760768
+      mage_death_sheet_7: -6769143073058119181
+      mage_death_sheet_8: 1887407710533034461
+      mage_death_sheet_9: 9019366218036046449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
