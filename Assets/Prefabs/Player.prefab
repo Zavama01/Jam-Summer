@@ -227,16 +227,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerDeflectBoxes
   _boxes:
-  - localOffset: {x: 1.5, y: 1}
-    size: {x: 1.7, y: 1}
+  - localOffset: {x: 0.8, y: 1}
+    size: {x: 3, y: 1}
     localAngle: 0
     localDeflectDirection: {x: 1, y: 1}
   - localOffset: {x: 1.5, y: 0}
     size: {x: 1.7, y: 1}
     localAngle: 0
     localDeflectDirection: {x: 1, y: 0}
-  - localOffset: {x: 1.5, y: -1}
-    size: {x: 1.7, y: 1}
+  - localOffset: {x: 0.8, y: -1}
+    size: {x: 3, y: 1}
     localAngle: 0
     localDeflectDirection: {x: 1, y: -1}
   _targetMask:
