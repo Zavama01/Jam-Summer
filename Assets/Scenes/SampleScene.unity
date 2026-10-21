@@ -663,6 +663,7 @@ MonoBehaviour:
   - {fileID: 583216302}
   - {fileID: 227284688}
   startOnAwake: 1
+  bossCounter: 3
 --- !u!1 &1769515593
 GameObject:
   m_ObjectHideFlags: 0
