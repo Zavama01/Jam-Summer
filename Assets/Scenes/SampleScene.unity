@@ -1203,6 +1203,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1284706052196154872, guid: dc7c89c56637e75499e81561daa6bd66, type: 3}
+      propertyPath: _boxes.Array.data[0].size.x
+      value: 3.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1284706052196154872, guid: dc7c89c56637e75499e81561daa6bd66, type: 3}
+      propertyPath: _boxes.Array.data[0].size.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1284706052196154872, guid: dc7c89c56637e75499e81561daa6bd66, type: 3}
+      propertyPath: _boxes.Array.data[1].size.x
+      value: 1.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1284706052196154872, guid: dc7c89c56637e75499e81561daa6bd66, type: 3}
+      propertyPath: _boxes.Array.data[1].size.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1284706052196154872, guid: dc7c89c56637e75499e81561daa6bd66, type: 3}
+      propertyPath: _boxes.Array.data[2].size.x
+      value: 3.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1284706052196154872, guid: dc7c89c56637e75499e81561daa6bd66, type: 3}
+      propertyPath: _boxes.Array.data[2].size.y
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 7851630079194288941, guid: dc7c89c56637e75499e81561daa6bd66, type: 3}
       propertyPath: m_Name
       value: Player
