@@ -4364,7 +4364,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '?  Guido'
+  m_text: 'Shiner Niccolo  '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0b369273676be304d96c779c4fd1c59b, type: 2}
   m_sharedMaterial: {fileID: 3232188978009185943, guid: 0b369273676be304d96c779c4fd1c59b, type: 2}
