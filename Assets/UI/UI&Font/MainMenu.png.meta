@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 35f559681c057aa45bcab6f123b83bff
+guid: 2c37830531b600e40be5ad36739889ce
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -743735787825403739
-    second: Peaknight_Quest_UI_0
+      213: 8178030749367299265
+    second: Peaknight_Quest_UI (1)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Peaknight_Quest_UI_0
+      name: Peaknight_Quest_UI (1)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5a8ebefcd38bda5f0800000000000000
-      internalID: -743735787825403739
+      spriteID: 1cc624233a33e7170800000000000000
+      internalID: 8178030749367299265
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Peaknight_Quest_UI_0: -743735787825403739
+      Peaknight_Quest_UI (1)_0: 8178030749367299265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
