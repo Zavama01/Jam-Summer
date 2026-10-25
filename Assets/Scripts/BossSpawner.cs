@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class RandomSpawnPointSpawner : MonoBehaviour
+public class RandomSpawnPointSpawner : MonoBehaviour, ISeflDestroy
 {
     [Header("Cosa spawnare")]
     [SerializeField] private GameObject prefabToSpawn;
@@ -16,42 +16,32 @@ public class RandomSpawnPointSpawner : MonoBehaviour
     [Tooltip("Se attivo, lo spawner parte automaticamente all'avvio della scena.")]
     [SerializeField] private bool startOnAwake = true;
 
-    private float timer;
-    private bool isSpawning;
+    [SerializeField] private int bossCounter;
+
+    private void OnEnable()
+    {
+        EventBus<EmptyPayload>.Subscribe("OnSelfDestruct", OnSpawnAtRandomPoint);
+    }
+
+    private void OnDisable()
+    {
+        EventBus<EmptyPayload>.Unsubscribe("OnSelfDestruct", OnSpawnAtRandomPoint);
+    }
 
     private void Start()
     {
-        if (startOnAwake)
-            StartSpawning();
-    }
-
-    private void Update()
-    {
-        if (!isSpawning)
-            return;
-
-        timer += Time.deltaTime;
-
-        if (timer >= spawnInterval)
-        {
-            timer = 0f;
-            SpawnAtRandomPoint();
-        }
-    }
-
-    public void StartSpawning()
-    {
-        isSpawning = true;
-        timer = 0f;
-    }
-
-    public void StopSpawning()
-    {
-        isSpawning = false;
+        SpawnAtRandomPoint();
     }
 
     private void SpawnAtRandomPoint()
     {
+        if (bossCounter <= 0)
+        {
+            SelfDestroy();
+        }
+
+        bossCounter--;
+
         if (prefabToSpawn == null)
         {
             Debug.LogWarning($"{name}: prefabToSpawn non è assegnato.");
@@ -71,5 +61,15 @@ public class RandomSpawnPointSpawner : MonoBehaviour
             randomSpawnPoint.position,
             randomSpawnPoint.rotation
         );
+    }
+
+    private void OnSpawnAtRandomPoint(IEventPayload _)
+    {
+        SpawnAtRandomPoint();
+    }
+
+    public void SelfDestroy()
+    {
+        gameObject.SetActive(false);
     }
 }
