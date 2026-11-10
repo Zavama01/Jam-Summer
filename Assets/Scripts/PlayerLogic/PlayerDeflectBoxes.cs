@@ -123,13 +123,11 @@ public class PlayerDeflectBoxes : MonoBehaviour
             {
                 Debug.Log($"Dentro al box: {hit.name}");
 
-                EventBus<DirectionPayload>.Raise(
-                    "OnDeflect",
-                    new DirectionPayload
-                    {
-                        direction = worldDeflectDirection
-                    }
-                );
+                if (hit.TryGetComponent(out Projectile projectile))
+                {
+                    projectile.Deflect(worldDeflectDirection);
+                    hitSomething = true;
+                }
             }
         }
 

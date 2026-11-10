@@ -9,22 +9,14 @@ public class Projectile : MonoBehaviour
     [SerializeField] private float skin = 0.01f;
     [SerializeField] private int damage;
 
+    
+
     private Vector2 _direction;
     private float speed;
     private BoxCollider2D boxCol;
     private float lifeTimer;
 
-   
-
-    private void OnEnable()
-    {
-        EventBus<DirectionPayload>.Subscribe("OnDeflect", OnDeflect);
-    }
-
-    private void OnDisable()
-    {
-        EventBus<DirectionPayload>.Unsubscribe("OnDeflect", OnDeflect);
-    }
+  
 
     public void Initialize(Vector2 newDirection, float newSpeed)
     {
@@ -62,7 +54,16 @@ public class Projectile : MonoBehaviour
 
         if (hit.collider != null)
         {
-            Destroy(gameObject);
+            if(hit.collider.CompareTag("Player"))
+{
+                Debug.Log("Colpito il player");
+                EventBus<EmptyPayload>.Raise("OnPlayerHit", new EmptyPayload{});
+
+                //crea un ProjecftilePayload al posto di questo empty e mettici il danno dentro
+                //poi modifica la classe playerlife e lascia solo la roba relativa ell'evento
+
+            }
+            gameObject.SetActive(false);
             return;
         }
 
@@ -70,13 +71,18 @@ public class Projectile : MonoBehaviour
     }
 
 
-    private void OnDeflect(IEventPayload payload)
+    public void Deflect(Vector2 newDirection)
     {
-        _direction = ((DirectionPayload)payload).direction.normalized;
+        _direction = newDirection.normalized;
+        gameObject.layer = LayerMask.NameToLayer("Deflect");
     }
 
     public int GetDamage()
     {
         return damage;
     }
+
+
+
+
 }

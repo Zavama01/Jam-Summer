@@ -5,16 +5,12 @@ public class RandomSpawnPointSpawner : MonoBehaviour, ISeflDestroy
     [Header("Cosa spawnare")]
     [SerializeField] private GameObject prefabToSpawn;
 
-    [Header("Impostazioni")]
-    [Tooltip("Secondi tra uno spawn e l'altro.")]
-    [SerializeField] private float spawnInterval = 3f;
+    //[Header("Impostazioni")]
+   // [Tooltip("Secondi tra uno spawn e l'altro.")]
+   // [SerializeField] private float spawnInterval = 3f;
 
     [Tooltip("Posizioni da cui può nascere l'oggetto.")]
     [SerializeField] private Transform[] spawnPoints;
-
-    [Header("Opzioni")]
-    [Tooltip("Se attivo, lo spawner parte automaticamente all'avvio della scena.")]
-    [SerializeField] private bool startOnAwake = true;
 
     [SerializeField] private int bossCounter;
 
