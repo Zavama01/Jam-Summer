@@ -15,46 +15,20 @@ public class PlayerLife : MonoBehaviour, IDamageable
     private void OnEnable()
     {
         
-        EventBus<EmptyPayload>.Subscribe("OnPlayerHit", OnPlayerHit);
+        EventBus<ProjectilePayload>.Subscribe("OnPlayerHit", OnPlayerHit);
 
     }
 
     private void OnDisable()
     {
         
-        EventBus<EmptyPayload>.Unsubscribe("OnPlayerHit", OnPlayerHit);
+        EventBus<ProjectilePayload>.Unsubscribe("OnPlayerHit", OnPlayerHit);
     }
 
-    private void Update()
+    private void OnPlayerHit(IEventPayload payload)
     {
-
-        CheckProjectileHit();
-    }
-
-    private void OnPlayerHit(IEventPayload _)
-    {
-        TakeDamage();
-    }
-
-    private void CheckProjectileHit()
-    {
-        Vector2 center = (Vector2)transform.position;
-
-        Collider2D hit = Physics2D.OverlapBox(
-            center,
-            hitboxSize,
-            0f,
-            projectileMask
-        );
-
-        if (hit == null)
-            return;
-
-        if (hit.TryGetComponent(out Projectile projectile))
-        {
-            TakeDamage(projectile.GetDamage());
-
-        }
+        int damage = ((ProjectilePayload)payload).projectileDamage;
+        TakeDamage(damage);
     }
 
     private void OnDrawGizmosSelected()

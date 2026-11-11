@@ -57,7 +57,7 @@ public class Projectile : MonoBehaviour
             if(hit.collider.CompareTag("Player"))
 {
                 Debug.Log("Colpito il player");
-                EventBus<EmptyPayload>.Raise("OnPlayerHit", new EmptyPayload{});
+                EventBus<ProjectilePayload>.Raise("OnPlayerHit", new ProjectilePayload { projectileDamage = damage });
 
                 //crea un ProjecftilePayload al posto di questo empty e mettici il danno dentro
                 //poi modifica la classe playerlife e lascia solo la roba relativa ell'evento
